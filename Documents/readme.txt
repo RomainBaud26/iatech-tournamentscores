@@ -1,11 +1,13 @@
-Cette application est toujours sous le format expo
+Cette application est toujours sous le format expo.
 
 
 Je suis parti d'une application visible ici: 
 https://snack.expo.io/@git/github.com/wcandillon/can-it-be-done-in-react-native:the-5-min
 car j'aimais beaucoup le design 
 
-La majeure partie du travail se trouve dans le dossier Accordion 
+La majeure partie du travail se trouve dans le dossier Accordion.
+
+Vous pouvez cliquer sur les rankings pour les faire apparaître.
 
 STEPS: 
 - Ajout de plusieurs catégories (hard coded)
